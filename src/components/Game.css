@@ -1,0 +1,27 @@
+.game {
+  display: flex;
+  width: 30rem;
+}
+
+.game-board {
+  display: flex;
+  flex-direction: column;
+}
+
+.game-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.game-board {
+  display: flex;
+}
+
+.game-step {
+  display: flex;
+  flex-direction: column;
+}
+
+.selected {
+  font-weight: bold;
+}

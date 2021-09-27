@@ -1,0 +1,14 @@
+.square {
+  height: 3rem;
+  width: 3rem;
+  border: #000 solid 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+}
+
+.win {
+  font-weight: bold;
+  color: red;
+}
